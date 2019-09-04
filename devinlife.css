@@ -1,0 +1,11 @@
+h1 {
+    color: blueviolet;
+    border-style: double
+    
+}
+body{
+    background-color: red
+}
+h1 {
+    border-color: blue
+}
